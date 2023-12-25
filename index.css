@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    
+}
+/* BODY SECTION */
+#body{
+    width: 550px;
+    height: 300px;
+    margin: auto;
+    padding-left: 20px;
+    background-color: #273549
+}
+
+/* TITLE SECTION */
+#title >h1{
+    padding-top: 20px;
+    color:#fff;
+}
+#title >h2{
+    color:#10B981;
+}
+#title >p{
+    color:#fff;
+}
+
+/* BUTTON SECTION */
+#section > button{
+    padding: 10px 30px;
+    color:#fff;
+    cursor: pointer;
+    background-color: #10B981;
+    border-radius: 10px;
+    border: 0px;
+}
+#section > hr{
+    margin-right:20px;
+}
+
+/* OUTPUT SECTION */
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;  
+}
+.container > span{
+    background-color: #6B89B3;
+    padding: 10px;
+    margin: 20px;
+    width: 120px;
+    border-radius:10px;
+    text-align: center;
+}
+
